@@ -1,3 +1,3 @@
 # ekotmonitor
 
-use with https://www.getpostman.com/collections/1c0ebebb88677a95f7a3
+use with postman (file -> import) https://www.getpostman.com/collections/1c0ebebb88677a95f7a3
